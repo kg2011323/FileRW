@@ -1,0 +1,5 @@
+D:\Project\C#\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe.config
+D:\Project\C#\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe
+D:\Project\C#\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.pdb
+D:\Project\C#\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.exe
+D:\Project\C#\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.pdb
